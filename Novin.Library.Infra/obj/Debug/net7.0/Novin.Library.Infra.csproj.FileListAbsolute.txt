@@ -1,0 +1,15 @@
+C:\Classes\C_sharp\Practice_Library\Novin.Library\Novin.Library.Infra\bin\Debug\net7.0\Novin.Library.Infra.deps.json
+C:\Classes\C_sharp\Practice_Library\Novin.Library\Novin.Library.Infra\bin\Debug\net7.0\Novin.Library.Infra.dll
+C:\Classes\C_sharp\Practice_Library\Novin.Library\Novin.Library.Infra\bin\Debug\net7.0\Novin.Library.Infra.pdb
+C:\Classes\C_sharp\Practice_Library\Novin.Library\Novin.Library.Infra\bin\Debug\net7.0\Novin.Library.Core.dll
+C:\Classes\C_sharp\Practice_Library\Novin.Library\Novin.Library.Infra\bin\Debug\net7.0\Novin.Library.Core.pdb
+C:\Classes\C_sharp\Practice_Library\Novin.Library\Novin.Library.Infra\obj\Debug\net7.0\Novin.Library.Infra.csproj.AssemblyReference.cache
+C:\Classes\C_sharp\Practice_Library\Novin.Library\Novin.Library.Infra\obj\Debug\net7.0\Novin.Library.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Classes\C_sharp\Practice_Library\Novin.Library\Novin.Library.Infra\obj\Debug\net7.0\Novin.Library.Infra.AssemblyInfoInputs.cache
+C:\Classes\C_sharp\Practice_Library\Novin.Library\Novin.Library.Infra\obj\Debug\net7.0\Novin.Library.Infra.AssemblyInfo.cs
+C:\Classes\C_sharp\Practice_Library\Novin.Library\Novin.Library.Infra\obj\Debug\net7.0\Novin.Library.Infra.csproj.CoreCompileInputs.cache
+C:\Classes\C_sharp\Practice_Library\Novin.Library\Novin.Library.Infra\obj\Debug\net7.0\Novin.Library.Infra.csproj.CopyComplete
+C:\Classes\C_sharp\Practice_Library\Novin.Library\Novin.Library.Infra\obj\Debug\net7.0\Novin.Library.Infra.dll
+C:\Classes\C_sharp\Practice_Library\Novin.Library\Novin.Library.Infra\obj\Debug\net7.0\refint\Novin.Library.Infra.dll
+C:\Classes\C_sharp\Practice_Library\Novin.Library\Novin.Library.Infra\obj\Debug\net7.0\Novin.Library.Infra.pdb
+C:\Classes\C_sharp\Practice_Library\Novin.Library\Novin.Library.Infra\obj\Debug\net7.0\ref\Novin.Library.Infra.dll

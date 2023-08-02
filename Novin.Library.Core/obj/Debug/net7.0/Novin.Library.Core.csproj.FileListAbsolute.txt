@@ -1,0 +1,12 @@
+C:\Classes\C_sharp\Practice_Library\Novin.Library\Novin.Library.Core\bin\Debug\net7.0\Novin.Library.Core.deps.json
+C:\Classes\C_sharp\Practice_Library\Novin.Library\Novin.Library.Core\bin\Debug\net7.0\Novin.Library.Core.dll
+C:\Classes\C_sharp\Practice_Library\Novin.Library\Novin.Library.Core\bin\Debug\net7.0\Novin.Library.Core.pdb
+C:\Classes\C_sharp\Practice_Library\Novin.Library\Novin.Library.Core\obj\Debug\net7.0\Novin.Library.Core.csproj.AssemblyReference.cache
+C:\Classes\C_sharp\Practice_Library\Novin.Library\Novin.Library.Core\obj\Debug\net7.0\Novin.Library.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Classes\C_sharp\Practice_Library\Novin.Library\Novin.Library.Core\obj\Debug\net7.0\Novin.Library.Core.AssemblyInfoInputs.cache
+C:\Classes\C_sharp\Practice_Library\Novin.Library\Novin.Library.Core\obj\Debug\net7.0\Novin.Library.Core.AssemblyInfo.cs
+C:\Classes\C_sharp\Practice_Library\Novin.Library\Novin.Library.Core\obj\Debug\net7.0\Novin.Library.Core.csproj.CoreCompileInputs.cache
+C:\Classes\C_sharp\Practice_Library\Novin.Library\Novin.Library.Core\obj\Debug\net7.0\Novin.Library.Core.dll
+C:\Classes\C_sharp\Practice_Library\Novin.Library\Novin.Library.Core\obj\Debug\net7.0\refint\Novin.Library.Core.dll
+C:\Classes\C_sharp\Practice_Library\Novin.Library\Novin.Library.Core\obj\Debug\net7.0\Novin.Library.Core.pdb
+C:\Classes\C_sharp\Practice_Library\Novin.Library\Novin.Library.Core\obj\Debug\net7.0\ref\Novin.Library.Core.dll
