@@ -1,0 +1,15 @@
+C:\Classes\D_Jango\Backend27\Novin.FoodApp.Backend\Novin.FoodApp.API.Backend\Novin.FoodApp.Infrastructure\bin\Debug\net7.0\Novin.FoodApp.Infrastructure.deps.json
+C:\Classes\D_Jango\Backend27\Novin.FoodApp.Backend\Novin.FoodApp.API.Backend\Novin.FoodApp.Infrastructure\bin\Debug\net7.0\Novin.FoodApp.Infrastructure.dll
+C:\Classes\D_Jango\Backend27\Novin.FoodApp.Backend\Novin.FoodApp.API.Backend\Novin.FoodApp.Infrastructure\bin\Debug\net7.0\Novin.FoodApp.Infrastructure.pdb
+C:\Classes\D_Jango\Backend27\Novin.FoodApp.Backend\Novin.FoodApp.API.Backend\Novin.FoodApp.Infrastructure\bin\Debug\net7.0\Novin.FoodApp.Core.dll
+C:\Classes\D_Jango\Backend27\Novin.FoodApp.Backend\Novin.FoodApp.API.Backend\Novin.FoodApp.Infrastructure\bin\Debug\net7.0\Novin.FoodApp.Core.pdb
+C:\Classes\D_Jango\Backend27\Novin.FoodApp.Backend\Novin.FoodApp.API.Backend\Novin.FoodApp.Infrastructure\obj\Debug\net7.0\Novin.FoodApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Classes\D_Jango\Backend27\Novin.FoodApp.Backend\Novin.FoodApp.API.Backend\Novin.FoodApp.Infrastructure\obj\Debug\net7.0\Novin.FoodApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Classes\D_Jango\Backend27\Novin.FoodApp.Backend\Novin.FoodApp.API.Backend\Novin.FoodApp.Infrastructure\obj\Debug\net7.0\Novin.FoodApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Classes\D_Jango\Backend27\Novin.FoodApp.Backend\Novin.FoodApp.API.Backend\Novin.FoodApp.Infrastructure\obj\Debug\net7.0\Novin.FoodApp.Infrastructure.AssemblyInfo.cs
+C:\Classes\D_Jango\Backend27\Novin.FoodApp.Backend\Novin.FoodApp.API.Backend\Novin.FoodApp.Infrastructure\obj\Debug\net7.0\Novin.FoodApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Classes\D_Jango\Backend27\Novin.FoodApp.Backend\Novin.FoodApp.API.Backend\Novin.FoodApp.Infrastructure\obj\Debug\net7.0\Novin.FoodApp.Infrastructure.csproj.CopyComplete
+C:\Classes\D_Jango\Backend27\Novin.FoodApp.Backend\Novin.FoodApp.API.Backend\Novin.FoodApp.Infrastructure\obj\Debug\net7.0\Novin.FoodApp.Infrastructure.dll
+C:\Classes\D_Jango\Backend27\Novin.FoodApp.Backend\Novin.FoodApp.API.Backend\Novin.FoodApp.Infrastructure\obj\Debug\net7.0\refint\Novin.FoodApp.Infrastructure.dll
+C:\Classes\D_Jango\Backend27\Novin.FoodApp.Backend\Novin.FoodApp.API.Backend\Novin.FoodApp.Infrastructure\obj\Debug\net7.0\Novin.FoodApp.Infrastructure.pdb
+C:\Classes\D_Jango\Backend27\Novin.FoodApp.Backend\Novin.FoodApp.API.Backend\Novin.FoodApp.Infrastructure\obj\Debug\net7.0\ref\Novin.FoodApp.Infrastructure.dll
